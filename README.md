@@ -1,8 +1,12 @@
 <img src="header.svg" alt="Samuel Drake" width="100%">
 
-### Samuel Drake
+**Right now**
 
-Math & CS at uOttawa. Software Developer Intern at Larus Technologies.
+- Honours BSc in Data Science (Math and CS double major), University of Ottawa, class of 2030
+- Software Developer Intern at Larus Technologies
+- Building *Fate*, a game in Godot
+
+**Hackathons:** 1st at uOttawa Computer Chess 2025 · 1st at WIE Code 2025 · 3rd in the Thales challenge at uOttaHack 8
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
